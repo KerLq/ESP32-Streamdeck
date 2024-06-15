@@ -1,0 +1,12 @@
+Bind following keys in your OBS:
+-------------------------------------------
+F1           - Start/Stop Streaming
+F2           - Start/Stop Recording
+F3           - Pause/Resume Recording
+F4           - Mute/Unmute Microphone
+F5           - Mute/Unmute Desktop Sound
+F6           - Disable/Enable Camera
+F7           - Your Main Scene
+F8           - Your Second Scene
+F9           - Your Third Scene
+-------------------------------------------
